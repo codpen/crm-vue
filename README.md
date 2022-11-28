@@ -42,7 +42,7 @@ The goal of this project is to create a reusable starter project for real-world 
 ``` bash
 
 # Clone project
-git clone https://github.com/harryho/vue2crm.git
+git clone https://github.com/codpen/vue2crm.git
 
 
 # install dependences for Vue 2 CRM
